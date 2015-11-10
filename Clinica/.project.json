@@ -1,0 +1,21 @@
+{
+  "generation": [
+    {
+      "templateId": "ui5template.basicSAPUI5ApplicationProject",
+      "templateVersion": "1.28.1",
+      "dateTimeStamp": "Mon, 26 Oct 2015 14:00:33 GMT"
+    }
+  ],
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en",
+    "defaultI18NPropertyFile": "i18n.properties",
+    "resourceModelName": "i18n"
+  },
+  "hcpdeploy": {
+    "account": "p1940775440trial",
+    "name": "clinicaultimo",
+    "lastVersionWeTriedToDeploy": "1.0.0"
+  }
+}

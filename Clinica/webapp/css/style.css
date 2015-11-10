@@ -1,0 +1,36 @@
+.spacerTop {
+    margin-top: 2rem;
+}
+.sap-tablet .sapMDialog,
+.sap-desktop .sapMDialog {
+    min-width: 18rem;
+}
+.sapMMessageDialog {
+    width: 18rem;
+}
+.paciente {
+	margin-top: 2px;
+	margin-left: -10px;
+	
+}
+.Inspector {
+	margin-left : 100px;
+	height: 20px;
+}
+.oMatrixElements{
+	margin-left : 620px;
+	margin-top : -550px;
+}
+.oMatrix360{
+	margin-top : 20px;
+}
+.sapUiRttImage{
+	width : 70px;
+}
+
+.oTI{
+	margin-top: 10px;
+	margin-left: 47px;
+    width: 800px;
+    height: 500px;
+}
